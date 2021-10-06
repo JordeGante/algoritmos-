@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 var dinero=1600;
 if(dinero> 2000){
@@ -344,5 +344,5 @@ switch(persona){
         
 
 
->>>>>>> 773483e8438d330cee1e982d8d7673e1eb115760
+
 }
